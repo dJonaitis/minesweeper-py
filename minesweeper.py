@@ -28,10 +28,6 @@ themeDark = {
 themes = [themeLight, themeDark]
 theme = themes[1]
 
-# inputs for the user to select features
-size = int(input("Enter the size: "))
-mines = int(input("Enter the amount of mines: "))
-theme = themes[int(input("Enter theme code (0 for light, 1 for dark): "))]
 
 
 
